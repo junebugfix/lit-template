@@ -5,7 +5,7 @@
   "main": "webpack.config.js",
   "scripts": {
     "build": "webpack",
-    "dev": "webpack --watch & http-server dist"
+    "dev": "webpack-dev-server"
   },
   "prettier": {
     "singleQuote": true
