@@ -1,7 +1,7 @@
 import { html, render } from 'lit-html';
 
 const home = html`
-  <div>Hey</div>
+  <div>Hello World!</div>
 `;
 
 render(home, document.body);
